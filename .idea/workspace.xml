@@ -4,17 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5145fe81-fb1e-421a-b5fb-eb9e2e041462" name="Changes" comment="" />
+    <list default="true" id="5145fe81-fb1e-421a-b5fb-eb9e2e041462" name="Changes" comment="Cria as classes e faz Produto">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CoentroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RuculaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Coentro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Coentro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Comum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Comum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gourmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gourmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Premium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Premium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Qualidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Qualidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rúcula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rucula.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2WEVKJGNrTkDGPnMegSSe56gHvY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,12 +53,89 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RuculaTest">
+    <configuration name="AlfaceTest.deveRetornarPrecoAlfacePremium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bridge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlfaceTest" />
+      <option name="METHOD_NAME" value="deveRetornarPrecoAlfacePremium" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlfaceTest.deveRetornarPrecoAlfaceSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bridge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlfaceTest" />
+      <option name="METHOD_NAME" value="deveRetornarPrecoAlfaceSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoentroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bridge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoentroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoentroTest.deveRetornarPrecoCoentroComum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bridge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoentroTest" />
+      <option name="METHOD_NAME" value="deveRetornarPrecoCoentroComum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuculaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bridge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RuculaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RuculaTest" />
+        <item itemvalue="JUnit.CoentroTest" />
+        <item itemvalue="JUnit.CoentroTest.deveRetornarPrecoCoentroComum" />
+        <item itemvalue="JUnit.AlfaceTest.deveRetornarPrecoAlfaceSelect" />
+        <item itemvalue="JUnit.AlfaceTest.deveRetornarPrecoAlfacePremium" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,8 +144,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696297676432</updated>
-      <workItem from="1696297677983" duration="8000" />
+      <workItem from="1696297677983" duration="3725000" />
     </task>
+    <task id="LOCAL-00001" summary="Cormmit inicial">
+      <option name="closed" value="true" />
+      <created>1696299423843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696299423843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cria as classes e faz Produto">
+      <option name="closed" value="true" />
+      <created>1696299971823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696299971823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Cormmit inicial" />
+    <MESSAGE value="Cria as classes e faz Produto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cria as classes e faz Produto" />
   </component>
 </project>

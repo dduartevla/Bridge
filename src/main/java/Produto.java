@@ -1,6 +1,6 @@
 public abstract class Produto {
     protected Qualidade qualidade;
-    protected double precoBase;
+    protected float precoBase;
 
     public Produto(float precoBase){
         this.precoBase = precoBase;
@@ -10,9 +10,9 @@ public abstract class Produto {
         this.qualidade = qualidade;
     }
 
-    public void setPrecoBase(double precoBase) {
+    public void setPrecoBase(float precoBase) {
         this.precoBase = precoBase;
     }
 
-    public abstract double calcularPreco();
+    public abstract float calcularPreco();
 }

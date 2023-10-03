@@ -1,2 +1,4 @@
-public class Qualidade {
+public interface Qualidade {
+
+    float percentualAumento();
 }
