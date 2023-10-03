@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5145fe81-fb1e-421a-b5fb-eb9e2e041462" name="Changes" comment="Cria as classes e faz Produto">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AlfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CoentroTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RuculaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Alface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Coentro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Coentro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Comum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Comum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Gourmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gourmet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Premium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Premium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Qualidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Qualidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rúcula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rucula.java" afterDir="false" />
-    </list>
+    <list default="true" id="5145fe81-fb1e-421a-b5fb-eb9e2e041462" name="Changes" comment="Faz os testes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696297676432</updated>
-      <workItem from="1696297677983" duration="3725000" />
+      <workItem from="1696297677983" duration="4202000" />
     </task>
     <task id="LOCAL-00001" summary="Cormmit inicial">
       <option name="closed" value="true" />
@@ -162,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696299971823</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Faz os testes">
+      <option name="closed" value="true" />
+      <created>1696303708143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696303708143</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +164,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Cormmit inicial" />
     <MESSAGE value="Cria as classes e faz Produto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cria as classes e faz Produto" />
+    <MESSAGE value="Faz os testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Faz os testes" />
   </component>
 </project>
